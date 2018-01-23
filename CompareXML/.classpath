@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/client-combined-3.3.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/cssparser-0.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/htmlunit-driver-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/neko-htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/websocket-api-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/websocket-client-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/websocket-common-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ukccs1tsa/Downloads/Tushar CC/Tools/Selenium/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
