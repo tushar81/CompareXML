@@ -42,7 +42,7 @@ public class ComparePlaylist_Content_Sequence
     	        Playlists.add(listOfFiles[i].getName());
     	     }
     	
-    	   //Compare contents of 2 playlists with same name 
+
     	    for(String str : Playlists)  
     	    {
     	    	if(str==null)
