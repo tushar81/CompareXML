@@ -30,7 +30,7 @@ public class ComparePlaylists_SingleFile
 		out.newLine();
     	
     	//Make a List of playlist names  
-    	String Playlists = "780227.xml";
+    	String Playlists = "750085.xml";
     	List<String> Result = new  ArrayList<String>();
 
     	    
@@ -77,9 +77,11 @@ public class ComparePlaylists_SingleFile
     	//Remove the Version and Timestamp as they wont be identical
     	firstFileContent.remove(3);
     	firstFileContent.remove(3);
+    	firstFileContent.remove(0);
     	
     	secondFileContent.remove(3);
     	secondFileContent.remove(3);
+    	secondFileContent.remove(0);
     	
     	
     	if(!firstFileContent.equals(secondFileContent))

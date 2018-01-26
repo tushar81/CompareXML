@@ -25,7 +25,7 @@ public class ComparePlaylist_Content_Sequence
     	//Create File
 		Date date = new Date();
 		SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy HH-mm-ss") ;
-		File file = new File("C://TEMP//AdshelPlaylistXMLComparison"+dateFormat.format(date) + ".txt") ;
+		File file = new File("C://TEMP//New_Old_PlaylistXMLComparison"+dateFormat.format(date) + ".txt") ;
 		BufferedWriter out = new BufferedWriter(new FileWriter(file));
 		out.write("************************************************************************PlayLists Comparison Report************************************************************************");
 		out.newLine();
